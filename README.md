@@ -27,14 +27,6 @@
 <a href="https://instagram.com/jayflash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayflash01" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayflashy&show_icons=true&locale=en&layout=compact" alt="jayflashy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayflashy&show_icons=true&locale=en" alt="jayflashy" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayflashy&theme=prussian&hide_border=false" alt="jayflashy Streaks" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayflashy&show_icons=true&locale=en&layout=compact" alt="jayflashy" /></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -89,3 +81,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayflashy&show_icons=true&locale=en&layout=compact" alt="jayflashy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayflashy&show_icons=true&locale=en" alt="jayflashy" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayflashy&theme=prussian&hide_border=false" alt="" /></p>
